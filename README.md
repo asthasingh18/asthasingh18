@@ -73,14 +73,44 @@ Passionate about building real-world software, solving Data Structures & Algorit
 
 # 🚀 Featured Projects
 
-| Project | Technology |
-|---------|------------|
-| 🎓 Student Management System | Python |
-| 📚 Library Management System *(Coming Soon)* | Java |
-| 💰 Expense Tracker *(Coming Soon)* | Python |
-| 🌐 Portfolio Website *(Coming Soon)* | React |
-| ☕ Spring Boot REST API *(Coming Soon)* | Spring Boot |
+<table>
+<tr>
+<th>Project</th>
+<th>Technology</th>
+<th>Status</th>
+</tr>
 
+<tr>
+<td>🎓 Student Management System</td>
+<td>Python</td>
+<td>✅ Completed</td>
+</tr>
+
+<tr>
+<td>🏦 Banking Management System</td>
+<td>Python</td>
+<td>🚧 In Progress</td>
+</tr>
+
+<tr>
+<td>🏥 Hospital Management System</td>
+<td>Java</td>
+<td>📅 Planned</td>
+</tr>
+
+<tr>
+<td>🌐 Personal Portfolio Website</td>
+<td>React.js + Tailwind CSS</td>
+<td>📅 Planned</td>
+</tr>
+
+<tr>
+<td>🛒 E-Commerce Web Application</td>
+<td>React.js + Spring Boot + MySQL</td>
+<td>📅 Planned</td>
+</tr>
+
+</table>
 ---
 
 # 📈 GitHub Statistics

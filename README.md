@@ -1,173 +1,75 @@
-<div align="center">
-
-# Hi 👋, I'm Astha Singh
-
-### 🚀 Computer Engineering Student | Aspiring Software Engineer
-
-<p>
-Passionate about building real-world software, solving Data Structures & Algorithms problems, and continuously learning modern technologies.
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Java+Developer;Python+Programmer;Full+Stack+Web+Developer;DSA+Learner;Always+Learning+Something+New!" />
-
-</div>
-
----
-
-# 👩‍💻 About Me
-
-- 🎓 Computer Engineering Student
-- 💻 Interested in **Software Development**
-- ☕ Strong foundation in **Java**
-- 🐍 Building practical projects using **Python**
-- 🌐 Learning **React.js** & **Spring Boot**
-- 📚 Solving **Data Structures & Algorithms**
-- 🎯 Goal: Become a **Software Development Engineer (SDE)**
-
----
-
-# 🛠 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Spring Boot
-- React.js
-- REST APIs
-- System Design Fundamentals
-- Artificial Intelligence
-
----
-
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<th>Project</th>
-<th>Technology</th>
-<th>Status</th>
-</tr>
+### 🔐 AgentMaze
+**AI Agent Security Research Environment**
 
-<tr>
-<td>🎓 Student Management System</td>
-<td>Python</td>
-<td>✅ Completed</td>
-</tr>
+`Python` `AI Agents` `Cybersecurity` `Attack Graphs`
 
-<tr>
-<td>🏦 Banking Management System</td>
-<td>Python</td>
-<td>🚧 In Progress</td>
-</tr>
+An experimental environment for studying how autonomous AI agents can create
+and propagate unexpected attack paths.
 
-<tr>
-<td>🏥 Hospital Management System</td>
-<td>Java</td>
-<td>📅 Planned</td>
-</tr>
-
-<tr>
-<td>🌐 Personal Portfolio Website</td>
-<td>React.js + Tailwind CSS</td>
-<td>📅 Planned</td>
-</tr>
-
-<tr>
-<td>🛒 E-Commerce Web Application</td>
-<td>React.js + Spring Boot + MySQL</td>
-<td>📅 Planned</td>
-</tr>
-
-</table>
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashthaasingh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashthaasingh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+**Key work**
+- Simulates interactions between autonomous agents and tools
+- Models **goal hijacking and context contamination**
+- Studies **inter-agent trust escalation**
+- Records and analyzes security events
+- Uses attack-path / attack-graph concepts to investigate emergent behavior
 
 ---
 
-# 🔥 Contribution Streak
+### 🤖 Saarthi AI
+**AI-Powered Placement Readiness Platform**
 
-<p align="center">
+`React.js` `Spring Boot` `MySQL` `Python` `Gemini API` `JWT`
 
-<img src="https://streak-stats.demolab.com?user=ashthaasingh&theme=tokyonight&hide_border=true"/>
+A full-stack platform designed to help students prepare for software
+engineering placements.
 
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Java
-- ✅ Solve 500+ DSA Problems
-- ✅ Build 10+ Quality Projects
-- ✅ Learn Full Stack Development
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Development Internship
+**Key features**
+- AI-powered resume analysis
+- Aptitude, technical and soft-skill assessments
+- Skill-gap identification
+- AI mock interview feedback
+- Career guidance
+- Student and recruiter dashboards
 
 ---
 
-# 🤝 Connect With Me
+### 🌊 Flood Disaster Alert & Drone Management System
 
-<p align="left">
+`React.js` `Spring Boot` `Python` `ML` `MySQL` `OpenWeather API`
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+A web-based disaster-management platform designed to help authorities
+identify flood-risk areas and prioritize emergency drone deployment.
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+**Key features**
+- Weather-based risk assessment
+- Green / Yellow / Red risk classification
+- Drone prioritization for critical zones
+- Automated drone assignment concept
+- Weather and drone monitoring dashboard
 
 ---
 
-<div align="center">
+### 🧠 DSA Journey
 
-## 💡 Favorite Quote
+`Java` `Data Structures & Algorithms`
 
-*"Success is built through consistency, curiosity, and continuous learning."*
+A placement-focused collection of DSA problems with concise approaches,
+implementations and complexity analysis.
 
-⭐ **Thank you for visiting my profile!**
+**Topics**
 
-</div>
+`Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window`
+`Linked Lists` `Stacks` `Queues` `Trees` `Graphs` `Dynamic Programming`
+
+---
+
+### 🛡️ FraudNexus
+
+**AI-Powered Financial Fraud Intelligence Platform**
+
+`AI` `Python` `Cybersecurity`
+
+A cybersecurity-focused platform for analyzing financial fraud patterns
+and supporting fraud investigation workflows.
